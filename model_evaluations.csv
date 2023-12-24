@@ -1,0 +1,8 @@
+,Model,R-squared (R²),Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,MAPE,Pearson Coefficient,Spearman Coefficient
+0,Linear Regression,0.1819,25.22,1258.88,35.48,14.53%,0.4266,0.4378
+1,KNeighbors Regressor,0.2434,24.14,1164.3,34.12,13.98%,0.5072,0.4728
+2,Multivariate Regression,0.2421,24.4,1166.39,34.15,14.11%,0.492,0.4733
+3,Ridge Regression,0.1819,25.22,1258.88,35.48,14.53%,0.4266,0.4378
+4,Lasso Regression,0.1819,25.22,1258.88,35.48,14.54%,0.4266,0.438
+5,Support Vector Regression,0.109,23.34,1371.13,37.03,12.57%,0.4158,0.4324
+6,Decision Tree Regressor,0.0587,27.35,1448.59,38.06,15.86%,0.3823,0.3518
